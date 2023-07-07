@@ -1,0 +1,9 @@
+body{
+    overflow: hidden;
+}
+
+.Q{
+    text-align: center;
+    color: red;
+    font-size: 600px;
+}
